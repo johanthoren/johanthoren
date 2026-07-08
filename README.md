@@ -34,7 +34,7 @@ I build practical software end to end: commercial macOS products, AI-agent tooli
 - **Website:** Next.js, React, TypeScript, Cloudflare/OpenNext
 - **Testing:** XCTest, Swift Testing, Playwright, Vitest
 
-<img src="assets/dashcam-export.webp" alt="Dashcam Export GPS map view" width="420">
+<img src="assets/dashcam-export.png" alt="Dashcam Export GPS map view" width="420">
 
 ## Open source
 
